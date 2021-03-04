@@ -1,6 +1,5 @@
 import joblib
 import pandas as pd
-from pathlib import Path
 from sklearn.svm import SVR
 from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
